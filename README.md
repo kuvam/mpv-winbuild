@@ -1,8 +1,6 @@
 # mpv-winbuild
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/zhongfly/mpv-winbuild/mpv.yml?branch=main&cacheSeconds=1800)](https://github.com/zhongfly/mpv-winbuild/actions)
-[![releases](https://img.shields.io/github/v/release/zhongfly/mpv-winbuild?cacheSeconds=1800)](https://github.com/zhongfly/mpv-winbuild/releases/latest)
-[![downloads](https://img.shields.io/github/downloads/zhongfly/mpv-winbuild/total?cacheSeconds=1800)](https://github.com/zhongfly/mpv-winbuild/releases)
+[![workflow status](https://github.com/kuvam/mpv-winbuild/actions/workflows/mpv.yml/badge.svg)](https://github.com/kuvam/mpv-winbuild/actions/workflows/mpv.yml)
 
 Use Github Action to build mpv for Windows with latest commit.
 
